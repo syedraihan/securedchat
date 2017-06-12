@@ -1,4 +1,4 @@
-# README #
+# securedchat #
 
 A simple console based chat server and client using TCP sockets and end-to-end encryption.
 
